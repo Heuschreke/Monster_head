@@ -3,3 +3,4 @@ if input() is 'норм'.lower:
     print('ага')
 else:
     print('понятно')
+print('a=b')
